@@ -8,8 +8,8 @@ Project setup:
 
 Use Vagrantfile to build nodes
 
-Use simple-webpage jenkins pipeline
- >> https://github.com/shamal112mn/simple-webpage.git
+Use jenkins pipeline in Simple_webpage folder
+ >> https://github.com/RG-organization/JenkinsPipelinesForVagrant.git
  to test jenkins setup on vagrant VMs
 
 Nginx server will be running from port 80
